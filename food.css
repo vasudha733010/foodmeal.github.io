@@ -1,0 +1,33 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/close-up-tasty-ice-cream-scoops-with-topping_23-2148425388.jpg?w=740&t=st=1669183485~exp=1669184085~hmac=3bfc3e1200454e1d1cbf2746910f276e4664463aed0327b4ee2eefeffb1edfaa");
+    height: 100vh;
+    background-size: cover;
+}
+.heading{
+    color:whitesmoke;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    font-size: 40px;
+}
+.layoutcard{
+   background-color: white;
+    padding:18px ;
+    border-radius: 8px;
+    margin: 15px;
+}
+.mealcont{
+    font-size: 30px; ;
+    color:#172a47;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.paraline{
+    color:#111112;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.mealimg{
+    height:150px;
+    width:150px;
+}
